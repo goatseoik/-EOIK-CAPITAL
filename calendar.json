@@ -1,155 +1,212 @@
 {
-  "weekOf": "2026-11-26",
-  "generatedAt": "2026-11-25T21:55:45Z",
-  "events": [
-    {
-      "date": "2026-11-27",
-      "timeKst": "22:30",
-      "importance": 2,
-      "ko": "상품수지 속보치(10월)",
-      "en": "Advance Goods Trade Balance (Oct)",
-      "actual": null,
-      "forecast": "-1,310억 달러",
-      "previous": "-1,351억 달러",
-      "why": "무역적자 변화가 4분기 성장률 추정과 관세 영향 판단에 쓰여요."
-    },
-    {
-      "date": "2026-11-27",
-      "timeKst": "22:30",
-      "importance": 1,
-      "ko": "도매재고 속보치 전월 대비(10월)",
-      "en": "Advance Wholesale Inventories MoM (Oct)",
-      "actual": null,
-      "forecast": "0.7%",
-      "previous": "0.7%",
-      "why": "재고 증감은 다음 분기 생산과 성장률 계산에 반영돼요."
-    },
-    {
-      "date": "2026-11-30",
-      "timeKst": "23:45",
-      "importance": 2,
-      "ko": "시카고 구매관리자지수(11월)",
-      "en": "Chicago PMI (Nov)",
-      "actual": null,
-      "forecast": null,
-      "previous": "55.3",
-      "why": "ISM 제조업 지수 발표 전 제조업 경기를 미리 보여줘요."
-    },
-    {
-      "date": "2026-12-01",
-      "timeKst": "23:45",
-      "importance": 2,
-      "ko": "S&P 글로벌 제조업 PMI(11월 확정치)",
-      "en": "S&P Global Manufacturing PMI Final (Nov)",
-      "actual": null,
-      "forecast": null,
-      "previous": "54.9",
-      "why": "제조업 경기가 확장 국면을 유지하는지 확인할 수 있어요."
-    },
-    {
-      "date": "2026-12-02",
-      "timeKst": "00:00",
-      "importance": 3,
-      "ko": "ISM 제조업 구매관리자지수(11월)",
-      "en": "ISM Manufacturing PMI (Nov)",
-      "actual": null,
-      "forecast": null,
-      "previous": "55.5",
-      "why": "경기 흐름과 물가 압력을 함께 보여줘 금리 기대와 경기민감주에 영향을 줘요."
-    },
-    {
-      "date": "2026-12-02",
-      "timeKst": "00:00",
-      "importance": 2,
-      "ko": "구인·이직 보고서(JOLTS, 10월 구인 건수)",
-      "en": "JOLTS Job Openings (Oct)",
-      "actual": null,
-      "forecast": null,
-      "previous": "752.3만 건",
-      "why": "노동 수요가 식는지 보여줘 연준의 12월 금리 판단에 참고돼요."
-    },
-    {
-      "date": "2026-12-02",
-      "timeKst": "00:00",
-      "importance": 1,
-      "ko": "건설지출 전월 대비(10월)",
-      "en": "Construction Spending MoM (Oct)",
-      "actual": null,
-      "forecast": null,
-      "previous": "-1.9%",
-      "why": "고금리 속 건설 투자 흐름을 보여줘요."
-    },
-    {
-      "date": "2026-12-02",
-      "timeKst": "22:15",
-      "importance": 2,
-      "ko": "ADP 민간 고용(11월)",
-      "en": "ADP Employment Change (Nov)",
-      "actual": null,
-      "forecast": null,
-      "previous": null,
-      "why": "4일 비농업 고용 발표 전 민간 고용 흐름을 미리 보여줘요."
-    },
-    {
-      "date": "2026-12-03",
-      "timeKst": "22:30",
-      "importance": 2,
-      "ko": "신규 실업수당 청구건수",
-      "en": "Initial Jobless Claims",
-      "actual": null,
-      "forecast": null,
-      "previous": "18.9만 건",
-      "why": "해고 흐름을 매주 보여줘 고용 둔화 여부를 빠르게 확인할 수 있어요."
-    }
-  ],
-  "earnings": [
-    {
-      "date": "2026-12-02",
-      "timeKst": "",
-      "t": "CRWD",
-      "name": "크라우드스트라이크",
-      "when": "장 마감 후",
-      "why": "사이버보안 수요와 AI 관련 소프트웨어 지출을 가늠할 수 있어요."
-    },
-    {
-      "date": "2026-12-02",
-      "timeKst": "",
-      "t": "MRVL",
-      "name": "마벨 테크놀로지",
-      "when": "장 마감 후",
-      "why": "맞춤형 AI 칩 수요로 반도체 투자 심리에 영향을 줘요."
-    },
-    {
-      "date": "2026-12-03",
-      "timeKst": "",
-      "t": "CRM",
-      "name": "세일즈포스",
-      "when": "장 마감 후",
-      "why": "기업용 AI 에이전트 수익화가 소프트웨어주 흐름을 좌우해요."
-    },
-    {
-      "date": "2026-12-03",
-      "timeKst": "",
-      "t": "SNOW",
-      "name": "스노우플레이크",
-      "when": "장 마감 후",
-      "why": "데이터·AI 인프라 지출 흐름을 보여줘요."
-    },
-    {
-      "date": "2026-12-03",
-      "timeKst": "",
-      "t": "KR",
-      "name": "크로거",
-      "when": "장 시작 전",
-      "why": "식료품 물가와 소비 흐름을 확인할 수 있어요."
-    },
-    {
-      "date": "2026-12-03",
-      "timeKst": "",
-      "t": "DG",
-      "name": "달러 제너럴",
-      "when": "장 시작 전",
-      "why": "저소득층 소비 여력을 가늠할 수 있어요."
-    }
-  ]
+ "weekOf": "2026-11-27",
+ "generatedAt": "2026-11-26T22:30:00Z",
+ "events": [
+  {
+   "date": "2026-11-27",
+   "timeKst": "22:30",
+   "importance": 2,
+   "ko": "상품수지 속보치(10월)",
+   "en": "Advance Goods Trade Balance (Oct)",
+   "actual": null,
+   "forecast": "-1,310억 달러",
+   "previous": "-1,351억 달러",
+   "why": "무역적자 변화가 4분기 성장률 추정과 관세 영향 판단에 쓰여요."
+  },
+  {
+   "date": "2026-11-30",
+   "timeKst": "23:45",
+   "importance": 2,
+   "ko": "시카고 구매관리자지수(11월)",
+   "en": "Chicago PMI (Nov)",
+   "actual": null,
+   "forecast": null,
+   "previous": "55.3",
+   "why": "ISM 제조업 지수 발표 전 제조업 경기를 미리 보여줘요."
+  },
+  {
+   "date": "2026-12-01",
+   "timeKst": "23:45",
+   "importance": 2,
+   "ko": "S&P 글로벌 제조업 PMI(11월 확정치)",
+   "en": "S&P Global Manufacturing PMI Final (Nov)",
+   "actual": null,
+   "forecast": null,
+   "previous": "54.9",
+   "why": "제조업 경기가 확장 국면을 유지하는지 확인할 수 있어요."
+  },
+  {
+   "date": "2026-12-02",
+   "timeKst": "00:00",
+   "importance": 3,
+   "ko": "ISM 제조업 구매관리자지수(11월)",
+   "en": "ISM Manufacturing PMI (Nov)",
+   "actual": null,
+   "forecast": null,
+   "previous": "55.5",
+   "why": "경기 흐름과 물가 압력을 함께 보여줘 금리 기대와 경기민감주에 영향을 줘요."
+  },
+  {
+   "date": "2026-12-02",
+   "timeKst": "00:00",
+   "importance": 2,
+   "ko": "구인·이직 보고서(JOLTS, 10월 구인 건수)",
+   "en": "JOLTS Job Openings (Oct)",
+   "actual": null,
+   "forecast": null,
+   "previous": "752.3만 건",
+   "why": "노동 수요가 식는지 보여줘 연준의 12월 금리 판단에 참고돼요."
+  },
+  {
+   "date": "2026-12-02",
+   "timeKst": "22:15",
+   "importance": 2,
+   "ko": "ADP 민간 고용(11월)",
+   "en": "ADP Employment Change (Nov)",
+   "actual": null,
+   "forecast": null,
+   "previous": null,
+   "why": "4일 비농업 고용 발표 전 민간 고용 흐름을 미리 보여줘요."
+  },
+  {
+   "date": "2026-12-03",
+   "timeKst": "22:30",
+   "importance": 2,
+   "ko": "신규 실업수당 청구건수",
+   "en": "Initial Jobless Claims",
+   "actual": null,
+   "forecast": null,
+   "previous": "18.9만 건",
+   "why": "해고 흐름을 매주 보여줘 고용 둔화 여부를 빠르게 확인할 수 있어요."
+  },
+  {
+   "date": "2026-12-03",
+   "timeKst": "23:45",
+   "importance": 2,
+   "ko": "S&P 글로벌 서비스업 PMI(11월 확정치)",
+   "en": "S&P Global Services PMI Final (Nov)",
+   "actual": null,
+   "forecast": null,
+   "previous": "56.1",
+   "why": "미국 경제의 대부분인 서비스업 경기가 확장을 이어가는지 보여줘요."
+  },
+  {
+   "date": "2026-12-04",
+   "timeKst": "00:00",
+   "importance": 3,
+   "ko": "ISM 서비스업 구매관리자지수(11월)",
+   "en": "ISM Services PMI (Nov)",
+   "actual": null,
+   "forecast": null,
+   "previous": "54.5",
+   "why": "서비스 물가와 경기 흐름을 함께 보여줘 금리 인상 기대에 영향을 줘요."
+  },
+  {
+   "date": "2026-12-04",
+   "timeKst": "22:30",
+   "importance": 3,
+   "ko": "비농업 고용(11월)",
+   "en": "Nonfarm Payrolls (Nov)",
+   "actual": null,
+   "forecast": null,
+   "previous": "16.5만 건",
+   "why": "9일 FOMC 전 마지막 고용 지표라 금리 인상 폭 기대를 크게 움직여요."
+  },
+  {
+   "date": "2026-12-04",
+   "timeKst": "22:30",
+   "importance": 3,
+   "ko": "실업률(11월)",
+   "en": "Unemployment Rate (Nov)",
+   "actual": null,
+   "forecast": null,
+   "previous": "4.1%",
+   "why": "고용 시장이 식는지 보여주는 핵심 지표라 경기와 금리 전망을 함께 바꿔요."
+  },
+  {
+   "date": "2026-12-04",
+   "timeKst": "22:30",
+   "importance": 2,
+   "ko": "평균 시간당 임금 전월 대비(11월)",
+   "en": "Average Hourly Earnings MoM (Nov)",
+   "actual": null,
+   "forecast": null,
+   "previous": "0.4%",
+   "why": "임금 상승은 서비스 물가로 이어져 연준의 인플레이션 판단에 쓰여요."
+  }
+ ],
+ "earnings": [
+  {
+   "date": "2026-12-02",
+   "timeKst": "",
+   "t": "CRWD",
+   "name": "크라우드스트라이크",
+   "when": "장 마감 후",
+   "why": "사이버보안 수요와 AI 관련 소프트웨어 지출을 가늠할 수 있어요."
+  },
+  {
+   "date": "2026-12-02",
+   "timeKst": "",
+   "t": "MRVL",
+   "name": "마벨 테크놀로지",
+   "when": "장 마감 후",
+   "why": "맞춤형 AI 칩 수요로 반도체 투자 심리에 영향을 줘요."
+  },
+  {
+   "date": "2026-12-02",
+   "timeKst": "",
+   "t": "OKTA",
+   "name": "옥타",
+   "when": "장 마감 후",
+   "why": "기업 보안 소프트웨어 지출 흐름을 보여줘요."
+  },
+  {
+   "date": "2026-12-03",
+   "timeKst": "",
+   "t": "CRM",
+   "name": "세일즈포스",
+   "when": "장 마감 후",
+   "why": "기업용 AI 에이전트 수익화가 소프트웨어주 흐름을 좌우해요."
+  },
+  {
+   "date": "2026-12-03",
+   "timeKst": "",
+   "t": "SNOW",
+   "name": "스노우플레이크",
+   "when": "장 마감 후",
+   "why": "데이터·AI 인프라 지출 흐름을 보여줘요."
+  },
+  {
+   "date": "2026-12-03",
+   "timeKst": "",
+   "t": "KR",
+   "name": "크로거",
+   "when": "장 시작 전",
+   "why": "식료품 물가와 소비 흐름을 확인할 수 있어요."
+  },
+  {
+   "date": "2026-12-03",
+   "timeKst": "",
+   "t": "DG",
+   "name": "달러 제너럴",
+   "when": "장 시작 전",
+   "why": "저소득층 소비 여력을 가늠할 수 있어요."
+  },
+  {
+   "date": "2026-12-04",
+   "timeKst": "",
+   "t": "ULTA",
+   "name": "울타 뷰티",
+   "when": "장 마감 후",
+   "why": "연말 쇼핑 시즌 소비 흐름을 가늠할 수 있어요."
+  },
+  {
+   "date": "2026-12-04",
+   "timeKst": "",
+   "t": "VEEV",
+   "name": "비바 시스템즈",
+   "when": "장 마감 후",
+   "why": "제약 업계의 소프트웨어 투자 흐름을 보여줘요."
+  }
+ ]
 }

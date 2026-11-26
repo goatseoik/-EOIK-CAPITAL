@@ -13793,6 +13793,236 @@
      "t": "GOOGL"
     }
    ]
+  },
+  "graded20": {
+   "gradedAt": "2026-11-26T22:30:00Z",
+   "horizonDays": 20,
+   "results": [
+    {
+     "excess": -0.54,
+     "ret": -7.74,
+     "score": 30,
+     "spyRet": -7.2,
+     "t": "MSFT"
+    },
+    {
+     "excess": -31.79,
+     "ret": -38.99,
+     "score": 30,
+     "spyRet": -7.2,
+     "t": "MU"
+    },
+    {
+     "excess": -20.93,
+     "ret": -28.13,
+     "score": 25,
+     "spyRet": -7.2,
+     "t": "ORCL"
+    },
+    {
+     "excess": 13.59,
+     "ret": 6.39,
+     "score": 20,
+     "spyRet": -7.2,
+     "t": "KO"
+    },
+    {
+     "excess": -7.28,
+     "ret": -14.48,
+     "score": 15,
+     "spyRet": -7.2,
+     "t": "AVGO"
+    },
+    {
+     "excess": -14.86,
+     "ret": -22.06,
+     "score": 15,
+     "spyRet": -7.2,
+     "t": "TSM"
+    },
+    {
+     "excess": -22.61,
+     "ret": -29.81,
+     "score": 10,
+     "spyRet": -7.2,
+     "t": "AMD"
+    },
+    {
+     "excess": -5.95,
+     "ret": -13.15,
+     "score": 10,
+     "spyRet": -7.2,
+     "t": "XOM"
+    },
+    {
+     "excess": 1.24,
+     "ret": -5.96,
+     "score": 5,
+     "spyRet": -7.2,
+     "t": "TSLA"
+    },
+    {
+     "excess": 15.27,
+     "ret": 8.07,
+     "score": 5,
+     "spyRet": -7.2,
+     "t": "LLY"
+    },
+    {
+     "excess": -14.44,
+     "ret": -21.64,
+     "score": 5,
+     "spyRet": -7.2,
+     "t": "ASML"
+    },
+    {
+     "excess": 18.29,
+     "ret": 11.09,
+     "score": 5,
+     "spyRet": -7.2,
+     "t": "WMT"
+    },
+    {
+     "excess": 0.55,
+     "ret": -6.65,
+     "score": 5,
+     "spyRet": -7.2,
+     "t": "JPM"
+    },
+    {
+     "excess": -23.48,
+     "ret": -30.68,
+     "score": 0,
+     "spyRet": -7.2,
+     "t": "NVDA"
+    },
+    {
+     "excess": -9.68,
+     "ret": -16.88,
+     "score": 0,
+     "spyRet": -7.2,
+     "t": "PLTR"
+    },
+    {
+     "excess": -35.78,
+     "ret": -42.98,
+     "score": 0,
+     "spyRet": -7.2,
+     "t": "INTC"
+    },
+    {
+     "excess": 3.21,
+     "ret": -3.99,
+     "score": -5,
+     "spyRet": -7.2,
+     "t": "AMZN"
+    },
+    {
+     "excess": 22.39,
+     "ret": 15.19,
+     "score": -5,
+     "spyRet": -7.2,
+     "t": "DIS"
+    },
+    {
+     "excess": -7.76,
+     "ret": -14.96,
+     "score": -5,
+     "spyRet": -7.2,
+     "t": "UNH"
+    },
+    {
+     "excess": -20.21,
+     "ret": -27.41,
+     "score": -5,
+     "spyRet": -7.2,
+     "t": "IONQ"
+    },
+    {
+     "excess": 20.37,
+     "ret": 13.17,
+     "score": -10,
+     "spyRet": -7.2,
+     "t": "MCD"
+    },
+    {
+     "excess": 17.79,
+     "ret": 10.59,
+     "score": -10,
+     "spyRet": -7.2,
+     "t": "COST"
+    },
+    {
+     "excess": 13.14,
+     "ret": 5.94,
+     "score": -10,
+     "spyRet": -7.2,
+     "t": "V"
+    },
+    {
+     "excess": 10.62,
+     "ret": 3.42,
+     "score": -15,
+     "spyRet": -7.2,
+     "t": "AAPL"
+    },
+    {
+     "excess": -28.9,
+     "ret": -36.1,
+     "score": -25,
+     "spyRet": -7.2,
+     "t": "COIN"
+    },
+    {
+     "excess": 8.86,
+     "ret": 1.65,
+     "score": -25,
+     "spyRet": -7.2,
+     "t": "UBER"
+    },
+    {
+     "excess": 5.88,
+     "ret": -1.32,
+     "score": -30,
+     "spyRet": -7.2,
+     "t": "NKE"
+    },
+    {
+     "excess": -5,
+     "ret": -12.2,
+     "score": -30,
+     "spyRet": -7.2,
+     "t": "SPCX"
+    },
+    {
+     "excess": 3.04,
+     "ret": -4.16,
+     "score": -35,
+     "spyRet": -7.2,
+     "t": "NFLX"
+    },
+    {
+     "excess": 6.78,
+     "ret": -0.42,
+     "score": -40,
+     "spyRet": -7.2,
+     "t": "META"
+    },
+    {
+     "excess": 5.64,
+     "ret": -1.56,
+     "score": -40,
+     "spyRet": -7.2,
+     "t": "BA"
+    },
+    {
+     "excess": -8.74,
+     "ret": -15.94,
+     "score": -45,
+     "spyRet": -7.2,
+     "t": "GOOGL"
+    }
+   ]
   }
  },
  {
@@ -20196,6 +20426,236 @@
      "t": "UNH"
     }
    ]
+  },
+  "graded": {
+   "gradedAt": "2026-11-26T22:30:00Z",
+   "horizonDays": 5,
+   "results": [
+    {
+     "excess": 4.5,
+     "ret": 2.65,
+     "score": 20,
+     "spyRet": -1.85,
+     "t": "DIS"
+    },
+    {
+     "excess": 0.95,
+     "ret": -0.89,
+     "score": 20,
+     "spyRet": -1.85,
+     "t": "COST"
+    },
+    {
+     "excess": 2.53,
+     "ret": 0.68,
+     "score": 20,
+     "spyRet": -1.85,
+     "t": "LLY"
+    },
+    {
+     "excess": 1.34,
+     "ret": -0.51,
+     "score": 15,
+     "spyRet": -1.85,
+     "t": "KO"
+    },
+    {
+     "excess": 2.74,
+     "ret": 0.89,
+     "score": 10,
+     "spyRet": -1.85,
+     "t": "AAPL"
+    },
+    {
+     "excess": -6.86,
+     "ret": -8.71,
+     "score": 10,
+     "spyRet": -1.85,
+     "t": "AMZN"
+    },
+    {
+     "excess": 5.44,
+     "ret": 3.6,
+     "score": 10,
+     "spyRet": -1.85,
+     "t": "WMT"
+    },
+    {
+     "excess": 0.29,
+     "ret": -1.56,
+     "score": 5,
+     "spyRet": -1.85,
+     "t": "XOM"
+    },
+    {
+     "excess": -1.66,
+     "ret": -3.5,
+     "score": 0,
+     "spyRet": -1.85,
+     "t": "UBER"
+    },
+    {
+     "excess": -13.18,
+     "ret": -15.03,
+     "score": 0,
+     "spyRet": -1.85,
+     "t": "AVGO"
+    },
+    {
+     "excess": -1.45,
+     "ret": -3.3,
+     "score": -5,
+     "spyRet": -1.85,
+     "t": "GOOGL"
+    },
+    {
+     "excess": -4.76,
+     "ret": -6.61,
+     "score": -5,
+     "spyRet": -1.85,
+     "t": "ASML"
+    },
+    {
+     "excess": -21.56,
+     "ret": -23.41,
+     "score": -5,
+     "spyRet": -1.85,
+     "t": "AMD"
+    },
+    {
+     "excess": 4.06,
+     "ret": 2.21,
+     "score": -5,
+     "spyRet": -1.85,
+     "t": "V"
+    },
+    {
+     "excess": 5.3,
+     "ret": 3.46,
+     "score": -5,
+     "spyRet": -1.85,
+     "t": "MCD"
+    },
+    {
+     "excess": 0.75,
+     "ret": -1.1,
+     "score": -10,
+     "spyRet": -1.85,
+     "t": "NVDA"
+    },
+    {
+     "excess": -3.74,
+     "ret": -5.59,
+     "score": -10,
+     "spyRet": -1.85,
+     "t": "TSM"
+    },
+    {
+     "excess": -1.77,
+     "ret": -3.62,
+     "score": -10,
+     "spyRet": -1.85,
+     "t": "MSFT"
+    },
+    {
+     "excess": 0.91,
+     "ret": -0.94,
+     "score": -10,
+     "spyRet": -1.85,
+     "t": "TSLA"
+    },
+    {
+     "excess": -9.34,
+     "ret": -11.19,
+     "score": -10,
+     "spyRet": -1.85,
+     "t": "SPCX"
+    },
+    {
+     "excess": -12.89,
+     "ret": -14.74,
+     "score": -15,
+     "spyRet": -1.85,
+     "t": "MU"
+    },
+    {
+     "excess": 0.8,
+     "ret": -1.05,
+     "score": -15,
+     "spyRet": -1.85,
+     "t": "META"
+    },
+    {
+     "excess": 6.27,
+     "ret": 4.42,
+     "score": -15,
+     "spyRet": -1.85,
+     "t": "PLTR"
+    },
+    {
+     "excess": -0.43,
+     "ret": -2.27,
+     "score": -15,
+     "spyRet": -1.85,
+     "t": "JPM"
+    },
+    {
+     "excess": 2.84,
+     "ret": 0.99,
+     "score": -15,
+     "spyRet": -1.85,
+     "t": "BA"
+    },
+    {
+     "excess": 1.16,
+     "ret": -0.69,
+     "score": -20,
+     "spyRet": -1.85,
+     "t": "NFLX"
+    },
+    {
+     "excess": 2.1,
+     "ret": 0.26,
+     "score": -20,
+     "spyRet": -1.85,
+     "t": "IONQ"
+    },
+    {
+     "excess": 1.48,
+     "ret": -0.37,
+     "score": -25,
+     "spyRet": -1.85,
+     "t": "INTC"
+    },
+    {
+     "excess": -6.94,
+     "ret": -8.79,
+     "score": -30,
+     "spyRet": -1.85,
+     "t": "ORCL"
+    },
+    {
+     "excess": 2.81,
+     "ret": 0.96,
+     "score": -30,
+     "spyRet": -1.85,
+     "t": "NKE"
+    },
+    {
+     "excess": 0.79,
+     "ret": -1.05,
+     "score": -35,
+     "spyRet": -1.85,
+     "t": "UNH"
+    },
+    {
+     "excess": -4.3,
+     "ret": -6.14,
+     "score": -40,
+     "spyRet": -1.85,
+     "t": "COIN"
+    }
+   ]
   }
  },
  {
@@ -21316,6 +21776,227 @@
    },
    {
     "close": null,
+    "hard": false,
+    "score": 0,
+    "t": "XOM"
+   }
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "up": [
+   {
+    "reason": "19일 3분기 매출·이익이 예상을 넘고 연간 매출·EPS 전망을 올렸어요, 상승 신호 20일 적중률(65%)이 5일보다 높아 실적 뒤 흐름을 길게 봤어요.",
+    "score": 20,
+    "t": "WMT"
+   },
+   {
+    "reason": "17일 4분기 EPS 1.77달러로 예상(1.68달러)을 넘고 두 자릿수 EPS 성장 전망과 배당 33% 인상을 내놨어요, 발표 뒤 열흘이 지나 +15에 뒀어요.",
+    "score": 15,
+    "t": "DIS"
+   },
+   {
+    "reason": "24일 무디스가 신용등급을 Aa2로 올렸고 18일 캐나다에서 마운자로 심혈관 적응증이 승인됐어요, 근거 규모가 작아 +15에 그쳤어요.",
+    "score": 15,
+    "t": "LLY"
+   }
+  ],
+  "down": [
+   {
+    "reason": "16일 메디케어 어드밴티지 감사 확대안에 이어 20일 별점 기준 강화안(10년간 약 1,070억 달러 삭감 추정)이 나왔어요, 하락 신호 적중률(50%)이 모멘텀 규칙(56%)보다 낮아 -15로 줄였어요.",
+    "score": -15,
+    "t": "UNH"
+   }
+  ],
+  "all": [
+   {
+    "close": 131.94,
+    "hard": true,
+    "score": 20,
+    "t": "WMT"
+   },
+   {
+    "close": 125.6,
+    "hard": true,
+    "score": 15,
+    "t": "DIS"
+   },
+   {
+    "close": 1392.22,
+    "hard": true,
+    "score": 15,
+    "t": "LLY"
+   },
+   {
+    "close": 54.47,
+    "hard": true,
+    "score": 10,
+    "t": "INTC"
+   },
+   {
+    "close": 1086.81,
+    "hard": false,
+    "score": 10,
+    "t": "COST"
+   },
+   {
+    "close": 355.58,
+    "hard": false,
+    "score": 5,
+    "t": "AAPL"
+   },
+   {
+    "close": 380.14,
+    "hard": true,
+    "score": 5,
+    "t": "TSLA"
+   },
+   {
+    "close": 97.59,
+    "hard": false,
+    "score": 5,
+    "t": "KO"
+   },
+   {
+    "close": 164.53,
+    "hard": true,
+    "score": 5,
+    "t": "BA"
+   },
+   {
+    "close": 149.3,
+    "hard": true,
+    "score": -5,
+    "t": "NVDA"
+   },
+   {
+    "close": 346.19,
+    "hard": true,
+    "score": -15,
+    "t": "UNH"
+   },
+   {
+    "close": 36.66,
+    "hard": true,
+    "score": -10,
+    "t": "NKE"
+   },
+   {
+    "close": 23.54,
+    "hard": true,
+    "score": -10,
+    "t": "IONQ"
+   },
+   {
+    "close": 406.03,
+    "hard": true,
+    "score": -10,
+    "t": "AMD"
+   },
+   {
+    "close": 127.44,
+    "hard": true,
+    "score": -10,
+    "t": "SPCX"
+   },
+   {
+    "close": 342.34,
+    "hard": true,
+    "score": -5,
+    "t": "TSM"
+   },
+   {
+    "close": 300.86,
+    "hard": false,
+    "score": -5,
+    "t": "AVGO"
+   },
+   {
+    "close": 103.88,
+    "hard": true,
+    "score": -5,
+    "t": "ORCL"
+   },
+   {
+    "close": 273.1,
+    "hard": true,
+    "score": -5,
+    "t": "GOOGL"
+   },
+   {
+    "close": 163.59,
+    "hard": true,
+    "score": -5,
+    "t": "PLTR"
+   },
+   {
+    "close": 103.72,
+    "hard": false,
+    "score": -5,
+    "t": "COIN"
+   },
+   {
+    "close": 601.25,
+    "hard": true,
+    "score": 0,
+    "t": "MU"
+   },
+   {
+    "close": 1303.08,
+    "hard": false,
+    "score": 0,
+    "t": "ASML"
+   },
+   {
+    "close": 609.89,
+    "hard": true,
+    "score": 0,
+    "t": "META"
+   },
+   {
+    "close": 244.43,
+    "hard": false,
+    "score": 0,
+    "t": "AMZN"
+   },
+   {
+    "close": 489.93,
+    "hard": false,
+    "score": 0,
+    "t": "MSFT"
+   },
+   {
+    "close": 66.35,
+    "hard": false,
+    "score": 0,
+    "t": "UBER"
+   },
+   {
+    "close": 59.41,
+    "hard": false,
+    "score": 0,
+    "t": "NFLX"
+   },
+   {
+    "close": 283.5,
+    "hard": false,
+    "score": 0,
+    "t": "MCD"
+   },
+   {
+    "close": 316.74,
+    "hard": false,
+    "score": 0,
+    "t": "JPM"
+   },
+   {
+    "close": 424.39,
+    "hard": false,
+    "score": 0,
+    "t": "V"
+   },
+   {
+    "close": 158.08,
     "hard": false,
     "score": 0,
     "t": "XOM"
